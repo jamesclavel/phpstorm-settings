@@ -62,15 +62,11 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorIndentSelection" />
-  <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
+  <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageBottomWithSelection">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
-  <action id="EditorMoveToPageTop">
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
+  <action id="EditorMoveToPageTop" />
   <action id="EditorMoveToPageTopWithSelection">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
@@ -79,6 +75,12 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta l" />
