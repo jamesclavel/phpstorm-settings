@@ -77,7 +77,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta u" />
@@ -115,6 +117,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoNextError" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>

@@ -8,6 +8,11 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
