@@ -25,7 +25,7 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
